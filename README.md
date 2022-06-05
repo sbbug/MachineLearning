@@ -8,8 +8,9 @@ a. [Q-learning.paper](https://link.springer.com/content/pdf/10.1007/BF00992698.p
 
 b. [DQN算法.paper](https://arxiv.org/pdf/1312.5602.pdf)  
 
-c. [DQN源码](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)  
+c. [DQN源码.pytorch官方](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)  
 
-d. [使用DQN训练愤怒的小鸟](https://github.com/yenchenlin/DeepLearningFlappyBird)  
+d. [使用DQN训练愤怒的小鸟.TensorFlow版本](https://github.com/yenchenlin/DeepLearningFlappyBird)  
 
+e. [使用DQN训练愤怒的小鸟.pytorch版本](https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch)  
 
