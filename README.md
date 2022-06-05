@@ -4,8 +4,12 @@
 
 ## 强化学习
 
-a. [Q-learning][https://link.springer.com/content/pdf/10.1007/BF00992698.pdf]
-b. [DQN](https://arxiv.org/pdf/1312.5602.pdf)
-c. [DQN源码](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
-d. [使用DQN训练愤怒的小鸟](https://github.com/yenchenlin/DeepLearningFlappyBird)
+a. [Q-learning][https://link.springer.com/content/pdf/10.1007/BF00992698.pdf]  
+
+b. [DQN](https://arxiv.org/pdf/1312.5602.pdf)  
+
+c. [DQN源码](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)  
+
+d. [使用DQN训练愤怒的小鸟](https://github.com/yenchenlin/DeepLearningFlappyBird)  
+
 
